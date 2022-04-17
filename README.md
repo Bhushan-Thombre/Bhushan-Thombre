@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan-thombre&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan-thombre" /> </p>
 
+<p align="center"> <img src="/Banner.png" alt="Banner"> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan-thombre" alt="bhushan-thombre" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bhushanat11" target="blank"><img src="https://img.shields.io/twitter/follow/bhushanat11?logo=twitter&style=for-the-badge" alt="bhushanat11" /></a> </p>
